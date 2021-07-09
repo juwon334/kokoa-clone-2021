@@ -1,0 +1,9 @@
+.screen-header__point {
+  background-color: tomato;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  right: -10px;
+  top: -10px;
+}
